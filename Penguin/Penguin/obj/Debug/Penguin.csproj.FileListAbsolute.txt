@@ -1,0 +1,6 @@
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Penguin\Penguin\bin\Debug\Penguin.exe.config
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Penguin\Penguin\bin\Debug\Penguin.exe
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Penguin\Penguin\bin\Debug\Penguin.pdb
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Penguin\Penguin\obj\Debug\Penguin.csprojResolveAssemblyReference.cache
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Penguin\Penguin\obj\Debug\Penguin.exe
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Penguin\Penguin\obj\Debug\Penguin.pdb
