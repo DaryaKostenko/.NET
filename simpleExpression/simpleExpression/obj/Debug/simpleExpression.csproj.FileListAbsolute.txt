@@ -1,0 +1,6 @@
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\simpleExpression\simpleExpression\bin\Debug\simpleExpression.exe.config
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\simpleExpression\simpleExpression\bin\Debug\simpleExpression.exe
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\simpleExpression\simpleExpression\bin\Debug\simpleExpression.pdb
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\simpleExpression\simpleExpression\obj\Debug\simpleExpression.csprojResolveAssemblyReference.cache
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\simpleExpression\simpleExpression\obj\Debug\simpleExpression.exe
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\simpleExpression\simpleExpression\obj\Debug\simpleExpression.pdb
