@@ -1,0 +1,6 @@
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Sum\Sum\bin\Debug\Sum.exe.config
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Sum\Sum\bin\Debug\Sum.exe
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Sum\Sum\bin\Debug\Sum.pdb
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Sum\Sum\obj\Debug\Sum.csprojResolveAssemblyReference.cache
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Sum\Sum\obj\Debug\Sum.exe
+D:\Учеба\лэти\1 семестр\Инструментальные средства программирования(C#)\Projects\Sum\Sum\obj\Debug\Sum.pdb
